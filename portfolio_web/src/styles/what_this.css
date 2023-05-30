@@ -1,0 +1,24 @@
+.outer_div_what_this{
+    /* background-color: aqua; */
+
+    padding-left: 108px;
+    padding-right: 108px;
+
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+    display: flex;
+    flex-direction: column;
+
+    background-image: url('texture-1.png');
+    /* justify-content: space-between; */
+
+    /* width: 100%; */
+
+}
+.what_this_row_item{
+    /* background-color: aliceblue; */
+    margin-top: 5rem;
+
+    /* margin-top: 50rem; */
+}
